@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Vanshaj Saxena",
+    "userId": "12345",
+    "password": null,
+    "hashedPass": "xl2k38c23n82na",
+    "ticketsBooked": [
+      {
+        "ticketId": null,
+        "userId": null,
+        "source": "Ghaziabad",
+        "destination": "Mysore",
+        "dateOfTravel": "2025-01-23 20:06",
+        "train": {
+          "trainId": "abcd",
+          "trainNo": "12345",
+          "seats": [
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ]
+          ],
+          "stationTimes": null,
+          "stations": [
+            "Bangalore",
+            "Jaipur",
+            "Delhi"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "hello",
+    "userId": "487eb3b3-f21c-498c-b3ce-26195c592041",
+    "password": "mello",
+    "hashedPass": "$2a$10$gDtLFxB0FzkKXw9U3WhCpedKBlSlWFOLjHLg2l6i/x4YFYjGSu5xW",
+    "ticketsBooked": []
+  },
+  {
+    "name": "hello",
+    "userId": "9d709392-84ca-4175-859e-e8134e0f1b3d",
+    "password": "mello",
+    "hashedPass": "$2a$10$VlQjy2tOU0G9HEkFD.5VkuMh10iAFuMEuwJb6VLIVrIOCNgtLa9f.",
+    "ticketsBooked": []
+  }
+]
