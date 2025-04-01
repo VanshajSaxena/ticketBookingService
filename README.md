@@ -1,12 +1,9 @@
 > A really simple ticket booking service implementation
 
----
 
-With this project I basically learned serialization and deserialization of JSON
-files from basic Java POJOs, through the use of `ObjectMapper` class from the
-Jackson Library.
-
-
+This project demonstrates serialization and deserialization of JSON files from
+basic Java POJOs, through the use of `ObjectMapper` class from the Jackson
+Library.
 
 
 ### Structure
